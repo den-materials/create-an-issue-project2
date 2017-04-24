@@ -17,7 +17,7 @@ This weekend you will solve these issues.
 ## Exercise
 
 #### Requirements
-- Line up in alphabetical order by first name.  The two people directly after you in the alphabet are the developers you will submit issues for.  For those at the end of alphabet, you will wrap around and submit issues for people at the beginning of the alphabet.
+- Group up with your squad and share GitHub repositories.  You will be submitting issues for the other members of your squad.
 - For each of these two developers' code do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
