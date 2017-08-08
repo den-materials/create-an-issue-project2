@@ -17,7 +17,7 @@ This weekend you will solve these issues.
 ## Exercise
 
 #### Requirements
-- Group up with your squad and share GitHub repositories.  You will be submitting issues for the other members of your squad.
+- Circle up with your squad and share GitHub repositories.  You will be submitting issues for the two members to your left in your squad.
 - For each of these two developers' code do the following:
 
   1. Clone their repo (you do not need to `fork` it, because you will not need to `push` to it.)
